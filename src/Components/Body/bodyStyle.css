@@ -1,0 +1,15 @@
+.click:hover{
+    background-color:#eeeeee;
+    cursor:pointer;
+    color:dodgerblue;
+}
+.postStyle{
+    display:flex;
+    flex-direction: row;
+    background-color: white;
+    width: 700px;
+    height: 60px;
+    border-radius: 15px;
+    align-items: center;
+
+}
