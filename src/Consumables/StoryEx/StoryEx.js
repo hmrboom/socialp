@@ -2,7 +2,7 @@ import React from 'react';
 import './storyStyle.css';
 function StoryEx(props) {
     return (
-        <div className="exterior">
+        <div className="external">
             <div style={{ display:'flex',justifyContent:'center', }}>
                 <div style={{ color:'#faf2d7',position:'relative',fontFamily: '"Roboto Slab" serif',fontWeight:'bold' }}>
                     {props.name}
