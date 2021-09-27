@@ -1,0 +1,9 @@
+.login {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 540px;
+    border-radius: 15px;
+    height: 500px;
+
+}

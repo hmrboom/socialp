@@ -14,7 +14,7 @@ const Header = () => {
         <div style={{ backgroundColor:'white',borderRadius:15}} >
             <div style={{display: 'flex', justifyContent: 'space-between'}}>
                 <div style={{display: 'flex', cursor: "pointer"}} onClick={e => {
-                   history.push('/');
+                   history.push('register');
                 }}>
                     <img src={prinIcon} alt='poza' width='45' style={{borderRadius: 21, paddingRight: 10}}/>
                     <div style={{fontWeight: 'bold', fontFamily: '"Garamond", Times, serif'}}> AplicatieWeb</div>
