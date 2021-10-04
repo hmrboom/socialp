@@ -7,3 +7,80 @@
     height: 500px;
 
 }
+.login-container{
+    position: absolute;
+    width: 472px;
+    height: 650px;
+    left: 1200px;
+    top: 84px;
+    background: white;
+    border-radius:15px
+}
+.login-content{
+    width: 255px;
+    height: 167px;
+    left: 99px;
+    top: 30px;
+}
+.login-ceva{
+    position: absolute;
+    width: 113px;
+    height: 25px;
+    left: 170px;
+    top: 30px;
+    font-family: Abhaya Libre SemiBold, serif;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    color: #2D3748;
+}
+.google{
+    position: absolute;
+    width:75px;
+    height:75px;
+    background-color: rgba(215, 231, 250, 0.49);
+    right:100px;
+    top:30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.facebook{
+    position: absolute;
+    width:75px;
+    height:75px;
+    background-color: rgba(215, 231, 250, 0.49);
+    top:30px;
+    border-radius: 10px;
+    left:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-container{
+    position: absolute;
+    width: 345px;
+    height: 77px;
+    left: 52px;
+    top: 231px;
+
+}
+.user{
+    font-family: Abhaya Libre , serif;
+    font-size: 17px;
+}
+.submit-container{
+    position: absolute;
+    width: 280px;
+    height: 44px;
+    left: 56px;
+    top: 500px;
+    background: rgba(24, 183, 251, 0.77);
+    border-radius: 10px;
+    cursor:pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

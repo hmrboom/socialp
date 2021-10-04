@@ -17,7 +17,7 @@ const Header = () => {
                    history.push('register');
                 }}>
                     <img src={prinIcon} alt='poza' width='45' style={{borderRadius: 21, paddingRight: 10}}/>
-                    <div style={{fontWeight: 'bold', fontFamily: '"Garamond", Times, serif'}}> AplicatieWeb</div>
+                    <div style={{fontWeight: 'bold', fontFamily: 'Abhaya Libre , serif'}}> AplicatieWeb</div>
                 </div>
 
                 <div style={{display: 'flex', marginRight: 150, gap: 10}}>
@@ -33,7 +33,7 @@ const Header = () => {
                             marginTop: 3
                         }}>
                             <img src={search} width='15' alt='search' style={{ marginBottom:2 }}/>
-                            <div style={{fontSize: 13, fontFamily: '"Prompt", sans-serif',color:'white'}}>Submit</div>
+                            <div style={{fontSize: 14,marginTop:3, fontFamily: 'Abhaya Libre , serif',color:'white'}}>Submit</div>
                         </div>
                     </div>
                 </div>
